@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Builders>
+<Corporation>
+<CorporateBuilderNumber>SymphonyHomes</CorporateBuilderNumber>
+<CorporateState>UT</CorporateState>
+<CorporateName>SymphonyHomes</CorporateName>
+<CorporateReportingEmail">tjohnson@symphonyhomes.com</CorporateReportingEmail>
+<CorporationDescription>Love Where You Live</CorporationDescription>
+<Specialties>
+<Specialty Type="Semi-Custom Luxury Homes">1</Specialty>
+</Specialties>
+<OpenSpecialties>
+<OpenSpecialty>Eco-friendly materials</OpenSpecialty>
+</OpenSpecialties>
+<Builder>
+<BuilderNumber>SymphonyHomes</BuilderNumber>
+<BrandName>Symphony Homes</BrandName>
+<BrandLogo_Medhttps://dl.dropboxusercontent.com/s/a33u2aqls72453r/Primary%20Logo_Full%20Color.png?dl=0</BrandLogo_Med>
+<ReportingName>Symphony Homes</ReportingName>
+<DefaultLeadsEmail>tjohnson@symphonyhomes.com</DefaultLeadsEmail>
+<BuilderWebsite>http://www.symphonyhomes.com</BuilderWebsite>
+<Subdivision>
+<SubdivisionNumber>Sub1</SubdivisionNumber>
+<SubdivisionName>The Preserve</SubdivisionName>
+<!--When UseDefaultLeads is set to 0, a <subleadsemail> is required -->
+<UseDefaultLeadsEmail>0</UseDefaultLeadsEmail>
+<SubLeadsEmail>tjohnson@symphonyhomes.com</SubLeadsEmail>
+<BuildOnYourLot>0</BuildOnYourLot>
+<!--Community Style may be repeated using supported enums -->
+<CommunityStyle>Luxury</CommunityStyle>
+<SalesOffice>
+<Agent>Todd Johnson</Agent>
+<Address OutOfCommunity="0">
+<Street1>1558 West Pheasant Meadow Drive</Street1>
+<State>UT</State>
+<ZIP>84037</ZIP>
+<Country>USA</Country>
+<Geocode>
+<Latitude>41.03737</Latitude>
+<Longitude>-111.97058</Longitude>
+</Geocode>
+</Address>
+<Phone>
+<AreaCode>801</AreaCode>
+<Prefix>905</Prefix>
+<Suffix>8000</Suffix>
+<Extension></Extension>
+</Phone>
+<HoursDetail>
+<Day>
+<DayOfWeek>Saturday</DayOfWeek>
+<StartTime>11:00</StartTime>
+<EndTime>5:00</EndTime>
+</Day>
+<Day>
+<DayOfWeek>Sunday</DayOfWeek>
+<StartTime>CLOSED</StartTime>
+<EndTime>CLOSED</EndTime>
+</Day>
+</HoursDetail>
+</SalesOffice>
+<SubAddress>
+<SubStreet1>1558 West Pheasant Meadow Drive</SubStreet1>
+<SubCity>Kaysville</SubCity>
+<SubState>UT</SubState>
+<SubZIP>84037</SubZIP>
+<SubCountry>USA</SubCountry>
+<SubGeocode>
+<SubLatitude>41.03737</SubLatitude>
+<SubLongitude>-111.97058</SubLongitude>
+</SubGeocode>
+</SubAddress>
+<DrivingDirections></DrivingDirections>
+<Schools>
+<DistrictName>Davis</DistrictName>
+<Elementary>Kays Creek Elementary</Elementary>
+<Middle>Shoreline JH</Middle>
+<High>Davis HS</High>
+</Schools>
+<SubAmenity Type="Pool">1</SubAmenity>
+<SubAmenity Type="Park">1</SubAmenity>
+<SubDescription>The Preserve is a stunning Symphony Homes community in Kaysville, UT. With pristine mountain views, large lots, elegant living opportunities, and a future pool and park for the young and the young at heart, The Preserve is the perfect destination to orchestrate your dream home. Check it out today to see if it’s the right fit for your family!for result pages-->
+<SubImage Type="LotMap" SequencePosition="1" Caption="Image
+Caption">http://dl.dropboxusercontent.com/s/rbxz4joaggqexc9/The%20Preserve%20Map.jpg?dl=0</SubImage>
+<SubImage Type="Standard" SequencePosition="2" Caption="Image
+Caption">http://dl.dropboxusercontent.com/s/4vc9a07upplegfc/The%20Preserve%20Image.jpg?dl=0</SubImage>
+<!-- SubVideoTour videos will be embedded on our website if supported-->
+<SubVideoTour Title="Video Name">http://dl.dropboxusercontent.com/s/45muexb7z4470jm/The%20Preserve.mp4?dl=0</SubVideoTour>
+<SubWebsite>https://symphonyhomes.com/communities/the-preserve/</SubWebsite>
+<Promotion>
+<PromoType>Consumer</PromoType>
+<PromoHeadline>10K in Upgrades and 10k in Closing Costs</PromoHeadline>
+<PromoDescription>$10,000 towards options and $10,000 toward closing costs if you buy a new build in October!</PromoDescription>
+<StartDate>2022-10-01</StartDate>
+<EndDate>2022-10-31</EndDate>
+</Promotion>
+<OpenAmenity Type="LocalAreaAmenities" SequencePosition=”1”></OpenAmenity>
+<Lot>
+<LotNumber></LotNumber>
+<LotName></LotName>
+<ParcelNumber></ParcelNumber>
+<Address>
+<Street1></Street1>
+<City>Seattle</City>
+<State></State>
+<ZIP></ZIP>
+<Geocode>
+<Latitude></Latitude>
+<Longitude></Longitude>
+</Geocode>
+</Address>
+<Status>Available</Status>
+<LotSize></LotSize>
+</Lot>
+<Plan Type="SingleFamily">
+<PlanNumber>The Adagio</PlanNumber>
+<PlanName>The Adagio</PlanName>
+<PlanTypeName>Single Family</PlanTypeName>
+<BasePrice>1369900.00</BasePrice>
+<BaseSqft>4692</BaseSqft>
+<Stories>1</Stories>
+<Baths>3</Baths>
+<HalfBaths>1</HalfBaths>
+<Bedrooms>5</Bedrooms>
+<Garage>3</Garage>
+<LivingArea Type=”Study”>1</LivingArea>
+<Basement>1</Basement>
+<PlanAmenity Type=”Fireplaces”>1</PlanAmenity>
+<PlanOpenAmenity>Open Floorplan</PlanOpenAmenity>
+<Description>One level living with large gathering spaces.</Description>
+<PlanImages>
+<ElevationImage SequencePosition="1" Caption="The Craftsman Elevation features a large covered porch, hardie board and stone accents.">
+https://dl.dropboxusercontent.com/s/lt0lh608vmfz7aa/Adagio%20-%20Craftsman.jpg?dl=0</ElevationImage>
+<FloorPlanImage SequencePosition="1" Caption="Main
+Floor">https://dl.dropboxusercontent.com/s/jiy6jtxgc1t979j/Adagio%20Main%20Floor.jpg?dl=0</FloorPlanImage>
+<InteriorImage
+SequencePosition="1">https://dl.dropboxusercontent.com/s/q587w4gs15npqww/Interior%201.JPG?dl=0<
+SequencePosition="2">https://dl.dropboxusercontent.com/s/lni83hw541advww/Interior%202.jpg?dl=0<
+SequencePosition="3">https://dl.dropboxusercontent.com/s/htr6xlsjd3r2qpu/Interior%203.JPG?dl=0<
+SequencePosition="4">https://dl.dropboxusercontent.com/s/zk5qgca81acpk2x/Interior%204.JPG?dl=0<
+SequencePosition="5">https://dl.dropboxusercontent.com/s/yjoan1sdc0mfmr3/Interior%205.JPG?dl=0<
+SequencePosition="6">https://dl.dropboxusercontent.com/s/zds9dcuhqwi2bh4/Interior%206.JPG?dl=0<
+SequencePosition="7">https://dl.dropboxusercontent.com/s/enavmy2ef725mxj/Interior%207.JPG?dl=0<
+SequencePosition="8">https://dl.dropboxusercontent.com/s/ks0bi9zdbf6p940/Interior%208.jpg?dl=0<
+SequencePosition="9">https://dl.dropboxusercontent.com/s/l1g8khlnvxvl5i8/Interior%209.JPG?dl=0<
+SequencePosition="10">https://dl.dropboxusercontent.com/s/pf63eg0x7sgfb6s/Interior%2010.JPG?dl=0<
+SequencePosition="11">https://dl.dropboxusercontent.com/s/te0wqpi30gp2y68/Interior%2011.jpg?dl=0<
+SequencePosition="12">https://dl.dropboxusercontent.com/s/6t7uu95lob5fxk1/Interior%2012.JPG?dl=0<
+SequencePosition="13">https://dl.dropboxusercontent.com/s/5elzd72qpkos080/Interior%2013.JPG?dl=0<
+SequencePosition="14">https://dl.dropboxusercontent.com/s/4zmtda1iyts0lkp/interior%2014.jpg?dl=0<
+SequencePosition="15">https://dl.dropboxusercontent.com/s/7c5301mpxmy7gvn/Interior%2015.JPG?dl=0<
+</InteriorImage>
+<VirtualTour>https://my.matterport.com/show/?m=1spiLoaYigS</VirtualTour>
+</PlanImages>
+<PlanVideoFile>https://dl.dropboxusercontent.com/s/7c5301mpxmy7gvn/Interior%2015.JPG?dl=0</PlanVideoFile>
+<PlanWebsite>http://https://symphonyhomes.com/home-designs/adagio/</PlanWebsite>
+<RichDetails>
+<ArchitectureStyle>Craftsman</ArchitectureStyle>
+<CoolingSystems>
+<CoolingSystem>Central</CoolingSystem>
+</CoolingSystems>
+<Wired>1</Wired>
+</RichDetails>
+<Spec>
+<!-- Spec Home example. Any listing attriubtes not present here will be filled
+using the parent spec home info. For example if sqft is not provided here, it will be taken
+from the plan info-->
+<SpecNumber>Spec23445</SpecNumber>
+<ParcelNumber>1234567</ParcelNumber>
+<SpecMLSNumber>897</SpecMLSNumber>
+<SpecAddress>
+<SpecLot>Lot1234</SpecLot>
+<SpecStreet1>12 84th Street</SpecStreet1>
+<SpecCity>Seattle</SpecCity>
+<SpecState>WA</SpecState>
+<SpecZIP>98101</SpecZIP>
+<SpecGeocode>
+<SpecLatitude>47.15345</SpecLatitude>
+<SpecLongitude>-122.15234</SpecLongitude>
+</SpecGeocode>
+</SpecAddress>
+<SpecStatus>UnderConstruction</SpecStatus>
+<SpecMoveInDate>
+<Month>2015-10</Month>
+</SpecMoveInDate>
+<SpecPrice>489900.00</SpecPrice>
+<SpecSqft>2200</SpecSqft>
+<SpecLotSizeSqft>21780</SpecLotSizeSqft>
+<SpecBaths>2</SpecBaths>
+<SpecHalfBaths>1</SpecHalfBaths>
+<SpecBedrooms>4</SpecBedrooms>
+<SpecGarage>2</SpecGarage>
+<SpecDescription>insert marketing description for spec home</SpecDescription>
+<OpenHouses>
+<OpenHouse>
+<Date>2019-04-05</Date>
+<StartTime>13:00</StartTime>
+<EndTime>15:00</EndTime>
+</OpenHouse>
+</OpenHouses>
+<ModelHome>
+<Address>
+<Street1>123 Main Street</Street1>
+<Street2>Unit 1</Street2>
+<City>Seattle</City>
+<State>WA</State>
+<ZIP>98101</ZIP>
+<Geocode>
+<Latitude>47.15346</Latitude>
+<Longitude>-122.15235</Longitude>
+</Geocode>
+</Address>
+</ModelHome>
+<SpecYearBuilt>2015</SpecYearBuilt>
+<SpecImages>
+<SpecElevationImage SequencePosition="1">
+http://www.builder.com/images/spec/specimageelevation.jpg</SpecElevationImage>
+<SpecFloorPlanImage
+SequencePosition="1”>http://www.builder.com/images/constructions/specimagefloorplan.jpg</SpecF
+loorPlanImage>
+<SpecInteriorImage
+SequencePosition="1”>http://www.builder.com/images/constructions/specinteriorimage.jpg</SpecIn
+teriorImage>
+<SpecVirtualTour>www.specvirtualtour.com/tour123</SpecVirtualTour>
+</SpecImages>
+<SpecWebsite>http://builder.com/spec1.htm</SpecWebsite>
+<RichDetails>
+<CeilingFan>1</CeilingFan>
+<ViewTypes>
+<ViewType>Territorial</ViewType>
+</ViewTypes>
+</RichDetails>
+</Spec>
+</Plan>
+<ListingConnections>
+<MlsIdentifier>West Central Iowa Regional MLS (WCIRBOR)</MlsIdentifier>
+<ListingId>20158578</ListingId>
+<ListingId>20156688</ListingId>
+</ListingConnections>
+</Subdivision>
+</Builder>
+</Corporation>
+</Builders>
